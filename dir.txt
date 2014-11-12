@@ -774,8 +774,7 @@ Oran 31000
 Algeria
 Tel: 213 41 355872
 Fax: 213 41 451581
-Website: http://univ-usto.dz/bibliotheque.
-html
+Website: http://univ-usto.dz/bibliotheque.html
 Head Librarian: Bachir Yakoubi
 Subjects: Science
 BREAK
@@ -6715,7 +6714,7 @@ Head Librarian: Joseph Moukarzel
 Holdings: 250,000 bound books; 1,575 journals
 Subjects: Theology, Liturgy, Philosophy,
 Musicology, Fine Arts, Business, Agronomy,
-Engineering, Medecine, Nursing, Law.
+Engineering, Medecine, Nursing, Law
 BREAK
 Library: Université Saint-Joseph Bibliothèque Orientale
 P. Box 16-6775
